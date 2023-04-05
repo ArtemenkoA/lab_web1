@@ -1,4 +1,4 @@
-# lab_web1
+# ЛАБОРАТОРНАЯ РАБОТА №1
 ## Текст
 ### текст поменьше
-![](images/apl_get.jpg/)
+![](images/apl_get.jpg/)  
